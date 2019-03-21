@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(163, 163, 163);
+}
+
+header {
+    height: 200px;
+    background-color: #3a3a3a;
+    border: 5px solid #3a3a3a;
+}
+main {
+    height: 500px;
+    width: 1250px;
+    background-color: rgb(235, 235, 235);
+    text-align: center;
+    margin: 0px 100px;
+}
+
+.bottom {
+    height: 100px;
+    width: 1250px;
+    margin: 00px 100px;
+    text-align: center;
+    background-color: black;
+    padding: 50px;
+}
