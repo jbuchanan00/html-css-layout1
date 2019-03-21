@@ -1,25 +1,33 @@
 body {
     background-color: rgb(163, 163, 163);
+    text-align: center;
+    
 }
 
 header {
     height: 200px;
     background-color: #3a3a3a;
     border: 5px solid #3a3a3a;
+    display: inline-block;
 }
 main {
-    height: 500px;
+    height: 550px;
     width: 1250px;
     background-color: rgb(235, 235, 235);
-    text-align: center;
-    margin: 0px 100px;
+    display: inline-block;
+    margin: 0px 0px;
+    
 }
 
 .bottom {
-    height: 100px;
-    width: 1250px;
-    margin: 00px 100px;
     text-align: center;
+}
+.object {
+    margin: 0px 0px;
+    color: white;
+    height: 150px;
+    width: 1250px;
+    display: inline-block;
     background-color: black;
-    padding: 50px;
+    
 }
